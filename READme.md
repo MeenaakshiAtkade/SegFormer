@@ -64,7 +64,7 @@ Update the paths inside `CMakeLists.txt` accordingly.
 
 ### **Clone Repository**
 
-git clone https://github.com/yourusername/SegFormer.git
+git clone https://github.com/MeenaakshiAtkade/SegFormer.git
 
 cd SegFormer
 
